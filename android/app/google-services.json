@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754011355051",
+    "project_id": "todonebu",
+    "storage_bucket": "todonebu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754011355051:android:54ef65b45bba36f189c4ee",
+        "android_client_info": {
+          "package_name": "com.example.todonebu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv3oga7jbbb8UMky975fuGsqECXPnVggI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
