@@ -230,7 +230,8 @@ class _TodoListScreenState extends State<TodoListScreen> {
                     borderRadius: BorderRadius.circular(12),
                   ),
                   filled: true,
-                  fillColor: Theme.of(context).colorScheme.surfaceVariant,
+                  fillColor:
+                      Theme.of(context).colorScheme.surfaceContainerHighest,
                 ),
                 autofocus: true,
                 textInputAction: TextInputAction.done,
@@ -404,7 +405,8 @@ class _TodoListScreenState extends State<TodoListScreen> {
                     borderRadius: BorderRadius.circular(12),
                   ),
                   filled: true,
-                  fillColor: Theme.of(context).colorScheme.surfaceVariant,
+                  fillColor:
+                      Theme.of(context).colorScheme.surfaceContainerHighest,
                 ),
                 autofocus: true,
                 textInputAction: TextInputAction.done,
